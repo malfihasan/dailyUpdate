@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Mac specific gitignore
+.DS_Store
+.AppleDouble
+
+
+# My work specific gitignore
+# local only to keep track of local dev work without exposing to public. 
+.vscode
+Ideas.md # only to keep track ideas locally 
